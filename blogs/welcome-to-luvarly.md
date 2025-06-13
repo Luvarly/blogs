@@ -4,7 +4,7 @@ date: '2025-06-13'
 tags: ['Blog', 'Welcome']
 title: 'Luvarly: een vernieuwde manier van daten'
 subtitle: 'Wat Luvarly voor jou kan bekenen'
-hero_img: '/static/images/dating1.jpg'
+hero_img: 'dating1.jpg'
 ---
 
 Daten voelt vaak als eindeloos swipen, twijfelen, en ghosten. Maar wat als jij en jouw match maar één dag de tijd krijgen om met elkaar te appen?  
